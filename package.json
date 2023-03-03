@@ -1,0 +1,19 @@
+{
+  "name": "topic-10-render",
+  "version": "1.0.0",
+  "description": "SIT 209: Topic 10 - Deployment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KartikAroraOfficial/SIT-209-Topic-10.git"
+  },
+  "author": "Kartik Arora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KartikAroraOfficial/SIT-209-Topic-10/issues"
+  },
+  "homepage": "https://github.com/KartikAroraOfficial/SIT-209-Topic-10#readme"
+}
