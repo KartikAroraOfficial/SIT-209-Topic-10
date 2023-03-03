@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KartikAroraOfficial/SIT-209-Topic-10/issues"
   },
-  "homepage": "https://github.com/KartikAroraOfficial/SIT-209-Topic-10#readme"
+  "homepage": "https://github.com/KartikAroraOfficial/SIT-209-Topic-10#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
